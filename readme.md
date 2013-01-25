@@ -33,12 +33,12 @@ It is recommended to use the uncompressed file during development and the minifi
 
 ### ISO 639 codes
 
-<address>
+<pre>
 The ISO 639-2 Registration Authority
 Library of Congress
 Network Development and MARC Standards Office
 Washington, DC 20540-4402
 E-mail: iso639-2(at)loc(dot)gov
-</address>
+</pre>
 
 [UTF-8 text source file](http://loc.gov/standards/iso639-2/ISO-639-2_utf-8.txt).
